@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      -name: print a welcome message
-      run: echo "welcome to our first Github action"
+      run: echo"welcome to our first Github action"
       
      
